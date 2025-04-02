@@ -1,2 +1,2 @@
 # testrepo
-This is just to understand the working of github
+just for leaning how it works
